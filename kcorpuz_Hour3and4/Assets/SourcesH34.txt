@@ -1,0 +1,18 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://architextures.org/textures/3990
+
+Texture 2 source url: https://architextures.org/textures/962
+
+Texture 3 source url: https://architextures.org/textures/144
+
+Texture 4 source url: https://architextures.org/textures/760
+
+3D model source url:https://sketchfab.com/3d-models/old-taco-bell-sign-f691409e522943259c56c4f5aa3bb12f
+
