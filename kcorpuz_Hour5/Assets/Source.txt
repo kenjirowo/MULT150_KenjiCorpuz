@@ -1,0 +1,2 @@
+bridge texture: https://it.pinterest.com/pin/82331501727186112/
+flashlight cookie texture: https://developer.valvesoftware.com/wiki/SteamVR/Environments/lightcookies/
