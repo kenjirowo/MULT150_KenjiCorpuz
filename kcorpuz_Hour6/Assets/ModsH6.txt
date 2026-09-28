@@ -1,0 +1,31 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+	Added one more "Secret" Finish Zone.
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+	Created mines that will "explode" and respawn the player at the beginning.
+	Some of them are a bit hard to detect
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+	Opted for a more grounded movement approach; am fine w/ deducted points. Would have had player jump into pond w/ a platform leading into another secret Finish Zone.
+	DID add a jumping obstacle w/ mines through the "easy route."
+
+D. Modify the sky and textures to create a world based on your theme.
+	Added textures for flashlight, mines, and house.
+	
+	Source Link: https://architextures.org/textures/725
+	Source Link: https://architextures.org/textures/799
+	Source Link: https://architextures.org/textures/1054
+	Source Link: https://architextures.org/textures/1050
+	Source Link: https://architextures.org/textures/1053
+
+	
