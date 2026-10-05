@@ -13,7 +13,7 @@ public class Addition : MonoBehaviour
        int sum;
 
        sum = a + b + c;
-       sum += 1;
+       sum ++;
        
        Debug.Log(sum);
     }
